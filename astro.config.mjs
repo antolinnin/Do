@@ -15,8 +15,8 @@ export default defineConfig({
     sitemap(),
     robotsTxt({
       sitemap: [
-        "https://gianmarco.xyz/sitemap-index.xml",
-        "https://gianmarco.xyz/sitemap-0.xml",
+        "https://sarthakv.vercel.app//sitemap-index.xml",
+        "https://sarthakv.vercel.app//sitemap-0.xml",
       ],
     }),
     solidJs(),
