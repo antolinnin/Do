@@ -1,5 +1,8 @@
 # Sarthak Bento Portfolio
 
+![vDx](logo.png)
+
+
 ![Sarthak Bento Portfolio Preview](public/preview.png)
 
 Go to my portfolio **[click here]()**
