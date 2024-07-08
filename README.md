@@ -1,8 +1,7 @@
 
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
-<img src="public/favicon.svg" height="90px" width="auto" /> 
+<img src="logo.png" height="90px" width="auto" /> & <img src="public/favicon.svg" height="90px" width="auto" />
 <h2>
     <em>PortFolio De </em> antolin
 </h2>

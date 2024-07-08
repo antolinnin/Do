@@ -1,18 +1,17 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
+title: "Proximamente vDx Se Actualizara"
 description: "this is a post example"
-pubDate: 2023-01-21
+pubDate: 2024-07-08
 category: "intro"
 ---
-
-# Hi there!
-
-This Markdown file creates a page at `your-domain.com/post1/`
-
-It probably isn't styled much, but Markdown does support:
-
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+Proximamente vDx Se Actualizara y estas son las cosas nuevas
+- [Link de la web](https://vdxweb.xyz)
+1. Cambio de fondo en la web
+vDx tendra dos Fondos:
+Primer fondo
+<img src="../../../public/image.png" />
+Segundo Fondo
+<img src="../../../public/image2.png" />
+El primero sera de lo normal.
+Y el segundo de los redirigimientos
