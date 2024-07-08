@@ -10,8 +10,8 @@ Proximamente vDx Se Actualizara y estas son las cosas nuevas
 1. Cambio de fondo en la web
 vDx tendra dos Fondos:
 Primer fondo
-<img src="../../../public/image.png" />
+<img src="/image.png" />
 Segundo Fondo
-<img src="../../../public/image2.png" />
+<img src="/image2.png" />
 El primero sera de lo normal.
 Y el segundo de los redirigimientos
