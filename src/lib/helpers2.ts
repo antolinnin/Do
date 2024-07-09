@@ -7,7 +7,7 @@ export function getCurrentTimeInSpain(): Date {
   const now = new Date();
 
   // Convert the UTC time to Spain's time
-  const offsetSpain = 2; // Spain is in UTC+5:30, but you might need to adjust this based on Daylight Saving Time.
+  const offsetSpain = 5; // Spain is in UTC+5:30, but you might need to adjust this based on Daylight Saving Time.
   now.setHours(now.getUTCHours() + offsetSpain);
 
   return now;
@@ -19,7 +19,7 @@ export function formatTimeForSpain(date: Date): string {
     minute: "2-digit",
     second: "2-digit",
     hour12: true, // This will format the time in 12-hour format with AM/PM
-    timeZone: "Europe/Madrid",
+    timeZone: "America/Chicago",
   };
 
   let formattedTime = new Intl.DateTimeFormat("en-US", options).format(date);
